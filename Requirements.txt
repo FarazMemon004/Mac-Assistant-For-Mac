@@ -1,0 +1,8 @@
+openai-whisper
+SpeechRecognition
+sounddevice
+numpy
+pyobjc
+pyautogui
+pyperclip
+requests
