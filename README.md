@@ -1,4 +1,4 @@
-AI Assistant for macOS (Sindhi Language) 
+AI Assistant for macOS 
 
 Overview
 
